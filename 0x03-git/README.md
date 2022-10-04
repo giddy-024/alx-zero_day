@@ -1,1 +1,2 @@
-My second commit
+My second commit.
+Making some changes to my project.
